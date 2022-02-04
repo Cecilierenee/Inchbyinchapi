@@ -18,7 +18,7 @@ Users will be able to create a hair routine, where they can add, delete, and edi
   -A user can delete products from their routine.<br>
 
 ## ERD
-![Inch-by-inch](https://user-images.githubusercontent.com/89564513/151240985-ef828ded-a24a-4370-9b95-593aa65f34bd.png)
+![Inch-by-inch]
 
 ## End Points
 
@@ -50,5 +50,7 @@ Users will be able to create a hair routine, where they can add, delete, and edi
 -Test Endpoints<br>
 
 **Backend Running without bugs**(over the weekend) :dancer: :tada: <br>
+
+**Just Kidding**
 
 :point_right: [Click Here](https://github.com/Cecilierenee/Inch-by-inch-FE) to continue reading my process on building my Front-End.
