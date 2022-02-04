@@ -1,6 +1,5 @@
 # Inch-by-inch-api
 
-# Inch-by-inch-BackEnd
 This Repo is the Back-end of my Capstone project. For this project, I will be coding the Front and Back-End to an application of my choice.  [Repo for the FrontEnd](https://github.com/Cecilierenee/Inch-by-inch-FE). I'm using springboot on the backend to build a restful api that my user will be able to interact with.
 
 ## Purpose
